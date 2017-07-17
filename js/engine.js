@@ -1,6 +1,3 @@
-//         // 渲染操作元素
-//         renderUntities();
-
 var Engine = (function (global) {
 
     //建立canvas对象
