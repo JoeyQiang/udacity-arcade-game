@@ -1,12 +1,12 @@
 body {
     text-align: center;
     font-family: 'roboto';
-    background-color: #f7f4c6;
-    /*界面样式重新设计一下*/
-    background-image: url('http://jaybtrdgrd.github.io/frontend-nanodegree-arcade-game/images/background_scene.gif');
+    background-color: #fff;
 }
+
 h1 {
-    color: #fff;
-    font-size: 46px;
-    margin-top: 60px;
+    color: #000;
+    font-size: 56px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
